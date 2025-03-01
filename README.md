@@ -8,8 +8,8 @@ Latest prices are pulled using the Refinitiv API.
 
 Oreder files are formatted based on the order execution platform's format.
 
-Apart from order files, the code also prepares a "Short Request" file which gets sent to Morgan Stanley through at FTP.
+Apart from order files, the code also prepares a "Short Request" file which gets sent to Morgan Stanley through a FTP.
 
-The "Short Request" file is created so that MS can give us real time information about the cost of borrowing and the number of shares availability of borrowing for a particular list of stocks.
+The "Short Request" file is created so that MS can give us real time information about the cost of borrowing and the number of shares available for borrowing for a particular list of stocks.
 
-The input file has not been attached due to confidentiality reasons.
+The input excel file has not been attached due to confidentiality reasons.
